@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Conexiones Compresion" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Conexiones Compresion" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Conexiones Compresion" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Clientes.cpp" />
+		<Unit filename="Clientes.h" />
+		<Unit filename="Conexiones.cpp" />
+		<Unit filename="Conexiones.h" />
+		<Unit filename="Destinos.cpp" />
+		<Unit filename="Destinos.h" />
+		<Unit filename="Empleados.cpp" />
+		<Unit filename="Empleados.h" />
+		<Unit filename="Hoteles.cpp" />
+		<Unit filename="Hoteles.h" />
+		<Unit filename="ListaDiccionario.cpp" />
+		<Unit filename="ListaDiccionario.h" />
+		<Unit filename="ListaSimbolos.cpp" />
+		<Unit filename="ListaSimbolos.h" />
+		<Unit filename="TDA_Hoteles.cpp" />
+		<Unit filename="TDA_Hoteles.h" />
+		<Unit filename="TDA_Secundario.cpp" />
+		<Unit filename="TDA_Secundario.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

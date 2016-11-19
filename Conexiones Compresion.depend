@@ -1,0 +1,291 @@
+# depslib dependency file v1.0
+1447436955 source:d:\users\ferlopez\desktop\conexiones compresion\clientes.cpp
+	"Clientes.h"
+
+1447396874 d:\users\ferlopez\desktop\conexiones compresion\clientes.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<windows.h>
+	<stdlib.h>
+
+1447923854 source:d:\users\ferlopez\desktop\conexiones compresion\conexiones.cpp
+	"Conexiones.h"
+	"Destinos.h"
+	"ListaSimbolos.h"
+	<string.h>
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+
+1447916304 d:\users\ferlopez\desktop\conexiones compresion\conexiones.h
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+
+1442937904 d:\users\ferlopez\desktop\conexiones compresion\destinos.h
+	<iostream>
+
+1447909510 d:\users\ferlopez\desktop\conexiones compresion\listasimbolos.h
+	<iostream>
+	<math.h>
+
+1444923993 source:d:\users\ferlopez\desktop\conexiones compresion\destinos.cpp
+	"Destinos.h"
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<windows.h>
+
+1444984886 source:d:\users\ferlopez\desktop\conexiones compresion\empleados.cpp
+	"Empleados.h"
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdlib.h>
+
+1443809121 d:\users\ferlopez\desktop\conexiones compresion\empleados.h
+
+1445592902 source:d:\users\ferlopez\desktop\conexiones compresion\hoteles.cpp
+	"Hoteles.h"
+	"TDA_Hoteles.h"
+	"TDA_Secundario.h"
+
+1445589551 d:\users\ferlopez\desktop\conexiones compresion\hoteles.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<stdlib.h>
+
+1445592877 d:\users\ferlopez\desktop\conexiones compresion\tda_hoteles.h
+	"Hoteles.h"
+
+1445588997 d:\users\ferlopez\desktop\conexiones compresion\tda_secundario.h
+	"Hoteles.h"
+
+1447906900 source:d:\users\ferlopez\desktop\conexiones compresion\listadiccionario.cpp
+	"ListaDiccionario.h"
+
+1447906441 d:\users\ferlopez\desktop\conexiones compresion\listadiccionario.h
+	<iostream>
+	<fstream>
+
+1447922488 source:d:\users\ferlopez\desktop\conexiones compresion\listasimbolos.cpp
+	"ListaSimbolos.h"
+	"ListaDiccionario.h"
+
+1445592909 source:d:\users\ferlopez\desktop\conexiones compresion\tda_hoteles.cpp
+	"TDA_Hoteles.h"
+
+1445617304 source:d:\users\ferlopez\desktop\conexiones compresion\tda_secundario.cpp
+	"TDA_Secundario.h"
+	"TDA_Hoteles.h"
+	"Hoteles.h"
+
+1447918690 source:d:\users\ferlopez\desktop\conexiones compresion\main.cpp
+	<iostream>
+	<fstream>
+	"Destinos.h"
+	"Conexiones.h"
+	"Empleados.h"
+	"Hoteles.h"
+	"Clientes.h"
+	<windows.h>
+	<stdlib.h>
+
+1447436955 source:d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\clientes.cpp
+	"Clientes.h"
+
+1447396874 d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\clientes.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<windows.h>
+	<stdlib.h>
+
+1444923993 source:d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\destinos.cpp
+	"Destinos.h"
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<windows.h>
+
+1442937904 d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\destinos.h
+	<iostream>
+
+1444984886 source:d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\empleados.cpp
+	"Empleados.h"
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdlib.h>
+
+1443809121 d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\empleados.h
+
+1445592902 source:d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\hoteles.cpp
+	"Hoteles.h"
+	"TDA_Hoteles.h"
+	"TDA_Secundario.h"
+
+1445589551 d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\hoteles.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<stdlib.h>
+
+1445592877 d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\tda_hoteles.h
+	"Hoteles.h"
+
+1445588997 d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\tda_secundario.h
+	"Hoteles.h"
+
+1448010382 source:d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\listadiccionario.cpp
+	"ListaDiccionario.h"
+
+1448007722 d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\listadiccionario.h
+	<iostream>
+	<fstream>
+
+1447918690 source:d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\main.cpp
+	<iostream>
+	<fstream>
+	"Destinos.h"
+	"Conexiones.h"
+	"Empleados.h"
+	"Hoteles.h"
+	"Clientes.h"
+	<windows.h>
+	<stdlib.h>
+
+1447916304 d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\conexiones.h
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+
+1445592909 source:d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\tda_hoteles.cpp
+	"TDA_Hoteles.h"
+
+1445617304 source:d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\tda_secundario.cpp
+	"TDA_Secundario.h"
+	"TDA_Hoteles.h"
+	"Hoteles.h"
+
+1448046513 source:d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\conexiones.cpp
+	"Conexiones.h"
+	"Destinos.h"
+	"ListaSimbolos.h"
+	<string.h>
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+
+1448007924 d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\listasimbolos.h
+	<iostream>
+	<math.h>
+	<string.h>
+
+1448046501 source:d:\users\ferlopez\desktop\emmanuel\semestre 3\seminario de estructura de datos ii\conexiones compresion\listasimbolos.cpp
+	"ListaSimbolos.h"
+	"ListaDiccionario.h"
+
+1452221656 source:c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\clientes.cpp
+	"Clientes.h"
+
+1452221654 c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\clientes.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<windows.h>
+	<stdlib.h>
+
+1452221652 source:c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\conexiones.cpp
+	"Conexiones.h"
+	"Destinos.h"
+	"ListaSimbolos.h"
+	<string.h>
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+
+1452221652 c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\conexiones.h
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+
+1452221652 c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\destinos.h
+	<iostream>
+
+1452221648 c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\listasimbolos.h
+	<iostream>
+	<math.h>
+	<string.h>
+
+1452221652 source:c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\destinos.cpp
+	"Destinos.h"
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<windows.h>
+
+1452221650 source:c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\empleados.cpp
+	"Empleados.h"
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdlib.h>
+
+1452221650 c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\empleados.h
+
+1452221650 source:c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\hoteles.cpp
+	"Hoteles.h"
+	"TDA_Hoteles.h"
+	"TDA_Secundario.h"
+
+1452221650 c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\hoteles.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<stdlib.h>
+
+1452221646 c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\tda_hoteles.h
+	"Hoteles.h"
+
+1452221646 c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\tda_secundario.h
+	"Hoteles.h"
+
+1452221650 source:c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\listadiccionario.cpp
+	"ListaDiccionario.h"
+
+1452221648 c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\listadiccionario.h
+	<iostream>
+	<fstream>
+
+1452221648 source:c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\listasimbolos.cpp
+	"ListaSimbolos.h"
+	"ListaDiccionario.h"
+
+1452221648 source:c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\main.cpp
+	<iostream>
+	<fstream>
+	"Destinos.h"
+	"Conexiones.h"
+	"Empleados.h"
+	"Hoteles.h"
+	"Clientes.h"
+	<windows.h>
+	<stdlib.h>
+
+1452221646 source:c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\tda_hoteles.cpp
+	"TDA_Hoteles.h"
+
+1452221646 source:c:\users\xanandra\desktop\cucei\3er semestre\seminario de algoritmia\entregable 9.1 compresión y descompresión de datos\tda_secundario.cpp
+	"TDA_Secundario.h"
+	"TDA_Hoteles.h"
+	"Hoteles.h"
+
